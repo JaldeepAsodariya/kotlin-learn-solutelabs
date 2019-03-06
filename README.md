@@ -1,2 +1,2 @@
 # kotlin-learn-solutelabs
-Learn from Solutelabs Session 1 repository
+Learn Kotlin from Solutelabs Session 1 repository
